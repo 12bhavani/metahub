@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191257001803",
+    "project_id": "metahub-25cd4",
+    "storage_bucket": "metahub-25cd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191257001803:android:72e9daf55dd076aa21f2ce",
+        "android_client_info": {
+          "package_name": "com.metahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfXjwzLlsBzqvRv2TbKdiL8qIRJqrJGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
